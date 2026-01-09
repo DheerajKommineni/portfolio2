@@ -10,7 +10,7 @@ const Education = () => {
     {
       school: 'California State University, Fullerton',
       location: 'Fullerton, California, USA',
-      duration: '2022 – 2024',
+      duration: '2023 – 2025',
       degree: 'Master of Science in Computer Science',
       image: '/education/csuf.jpg',
       coursework: [
@@ -27,7 +27,7 @@ const Education = () => {
     {
       school: 'BML Munjal University',
       location: 'Gurgaon, India',
-      duration: '2014 – 2018',
+      duration: '2015 – 2019',
       degree: 'Bachelor of Technology in Computer Science',
       image: '/education/bmlu.jpg',
       coursework: [

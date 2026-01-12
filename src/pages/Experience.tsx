@@ -6,7 +6,7 @@ import { ScrollAnimation } from '@/components/ScrollAnimation';
 
 const experiences = [
   {
-    title: 'Senior Full Stack Developer',
+    title: 'Senior Software Engineer',
     company: 'Volkswagen',
     location: 'Rochester, MI, USA',
     period: 'Mar 2024 – Present',
@@ -24,7 +24,7 @@ const experiences = [
     ],
   },
   {
-    title: 'Full Stack Developer',
+    title: 'Software Engineer',
     company: 'HP',
     location: 'Vancouver, WA, USA',
     period: 'Apr 2022 – Feb 2024',
@@ -41,7 +41,7 @@ const experiences = [
     ],
   },
   {
-    title: 'Full Stack Developer',
+    title: 'Software Developer',
     company: 'Ulta Beauty',
     location: 'Bolingbrook, IL, USA',
     period: 'Jan 2020 – Mar 2022',

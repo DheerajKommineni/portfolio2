@@ -49,7 +49,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          7+ years of experience building scalable, cloud-native web
+          8+ years of experience building scalable, cloud-native web
           applications across Enterprise, Retail, and Healthcare domains using
           React, Python, AWS, Kubernetes, and Generative AI technologies.
         </motion.p>
@@ -108,7 +108,7 @@ const Home = () => {
           transition={{ delay: 0.5 }}
         >
           <a
-            href="https://github.com/dheerajkom"
+            href="https://github.com/dheerajkommineni"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-white transition-colors"
@@ -117,7 +117,7 @@ const Home = () => {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/dheeraj-kommineni"
+            href="https://www.linkedin.com/in/sri-hari-dheeraj-kommineni-8044223a5"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-white transition-colors"

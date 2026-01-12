@@ -8,7 +8,7 @@ const About = () => {
   const achievements = [
     {
       icon: <Code2 className="w-6 h-6" />,
-      title: '7+ Years Experience',
+      title: '8+ Years Experience',
       description: 'Building scalable full-stack applications',
     },
     {
@@ -58,9 +58,9 @@ const About = () => {
               <span className="text-white font-medium">
                 Sri Hari Dheeraj Kommineni
               </span>
-              , a Full Stack Software Engineer with 7+ years of experience
-              designing and building scalable, cloud-native web applications
-              across Healthcare, Retail, and Enterprise domains.
+              , a Senior Software Engineer with 8+ years of experience designing
+              and building scalable, cloud-native web applications across
+              Healthcare, Retail, and Enterprise domains.
             </p>
 
             <p className="text-gray-300 leading-relaxed">
@@ -87,7 +87,7 @@ const About = () => {
                 {[
                   'Based in Fullerton, California',
                   'Master’s in Computer Science',
-                  '7+ Years Full Stack Experience',
+                  '8+ Years Full Stack Experience',
                 ].map(fact => (
                   <motion.li
                     key={fact}

@@ -53,12 +53,7 @@ const Contact = () => {
     {
       icon: <MapPin className="w-5 h-5" />,
       label: 'Location',
-      value: 'Fullerton, California, USA',
-    },
-    {
-      icon: <Clock className="w-5 h-5" />,
-      label: 'Time Zone',
-      value: 'PST (UTC −8)',
+      value: 'USA',
     },
   ];
 
@@ -152,7 +147,7 @@ const Contact = () => {
             <div className="bg-gray-800/50 p-6 rounded-xl backdrop-blur-sm">
               <h3 className="text-xl font-semibold mb-4">Availability</h3>
               <div className="space-y-2 text-gray-400">
-                <p>Monday – Friday: 9:00 AM – 6:00 PM (PST)</p>
+                <p>Monday – Friday: 9:00 AM – 6:00 PM </p>
                 <p>Open to full-time and contract opportunities</p>
               </div>
             </div>
